@@ -1,8 +1,8 @@
 ## 👋 Hello I'm Jake Francis
 
-- 🖱️ Checkout my personal [website.](https://www.hellojake.com)
+- 🖱️ Feel free to checkout my [website](https://www.hellojake.com).
 
-- 💻 I'm a self taught dev with a passion for ```code```
+- 💻 I'm a self taught dev with a passion for ```code.```
 
 - ⚗️ Currently I work as Chemistry Technician at a Nuclear Power Plant! ☢️
 
