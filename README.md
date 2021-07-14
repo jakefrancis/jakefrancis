@@ -4,7 +4,7 @@
 
 - 💻 I'm a self taught dev with a passion for ```code.```
 
-- ⚗️ Currently I work as Chemistry Technician at a Nuclear Power Plant! ☢️
+- ⚗️ Former Chemistry Technician at a Nuclear Power Plant! ☢️
 
 - 📫 Say Hello jake@hellojake.com
 
